@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "JobHub - Find Your Dream Job",
   description: "Discover amazing job opportunities and internships from top companies",
-    generator: 'v0.dev'
+    generator: 'self'
 }
 
 export default function RootLayout({
